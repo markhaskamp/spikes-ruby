@@ -2,8 +2,19 @@ require 'SayHello.mod.rb'
 
 class Traveller
 
+  def Traveller.create(sym)
+    case sym
+    when :cowboy then Traveller_Cowboy.new
+    when :girl   then Traveller_Girl.new
+    when :snake  then Traveller_Snake.new
+    when :horse  then Traveller_Horse.new
+    else nil
+    end
+
+  end
+
   def go
-    self.travel()
+    self.travel
   end
 
   def hello

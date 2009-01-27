@@ -1,0 +1,30 @@
+<root>
+  <drills>
+    <drill name="5 on 4 + 1">
+      <tags>
+        <tag>defense</tag>
+        <tag>fullcourt defense</tag>
+      </tags>
+      <comments>
+        <comment>guard the ball, guard the basket</comment>
+        <comment>defense _has_ to talk</comment>
+        <comment>trailer should sprint to weakside</comment>
+      </comments>
+    </drill>
+
+    <drill name="5 stops in a row">
+      <tags>
+        <tag>defense</tag>
+        <tag>halfcourt defense</tag>
+      </tags>
+    </drill>
+
+    <drill name="6 hoop continuous">
+      <tags>
+        <tag>offense</tag>
+        <tag>shooting</tag>
+      </tags>
+    </drill>
+  </drills>
+</root>
+

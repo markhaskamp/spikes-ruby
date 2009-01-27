@@ -1,0 +1,20 @@
+
+Traveller_Cowboy
+- When cowboy travels, then he 'moseys'
+- When cowboy says hello, then he says 'howdy'
+
+Traveller_Horse
+- When horse travels, then he 'gallops'
+- When horse says hello, then he says 'animals don''t talk'
+
+Traveller_Snake
+- When snake travels, then he 'slithers'
+- When snake says hello, then he says 'animals don''t talk'
+
+Traveller_Girl
+- When girl travels, then she 'skips'
+- When girl says hello, then she says 'howdy'
+
+Finished in 0.031 seconds
+
+8 examples, 0 failures

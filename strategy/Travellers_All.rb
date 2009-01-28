@@ -10,7 +10,6 @@ class Traveller
     when :horse  then Traveller_Horse.new
     else nil
     end
-
   end
 
   def go
@@ -24,8 +23,8 @@ class Traveller
   def hi
     "whatever"
   end
-
 end
+
 class Traveller_Cowboy < Traveller
   include Howdy
 

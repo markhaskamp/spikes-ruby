@@ -1,0 +1,12 @@
+a list of all book titles.
+   8.99, The Autobiography of Benjamin Franklin
+  11.99, Moby Dick
+   9.99, Discourse on Method
+  39.99, Windows PowerShell in Action
+Total price: 70.96
+
+
+a list of all books that cost more than $9
+Moby Dick
+Discourse on Method
+Windows PowerShell in Action
